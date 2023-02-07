@@ -4,10 +4,6 @@
         <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
     </a>
 </div>
-</br>
-</br>
-
-
 <p align="center">
   <img src="https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif" width="350">
 </p>
