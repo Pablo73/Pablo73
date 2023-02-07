@@ -1,6 +1,6 @@
 <div>
     <h1 align="left">Pablo Dominguez</h1>
-    <a href="https://github.com/Pablo73">
+    <a href="https://www.linkedin.com/in/pablo-dominguez73/">
         <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
     </a>
 </div>
