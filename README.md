@@ -10,7 +10,6 @@
 Hello everyone. I'm Pablo, a guy who loves problems, and sharing knowledge and experiences. I'm a junior dev but in whatever I can help, please feel free to explore my repository and if you prefer, you can get in touch.
 
 </br>
-</br>
 
 <p align="center">
     <img src="https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif" width="350">
