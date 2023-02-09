@@ -12,7 +12,7 @@ Hello everyone. I'm Pablo, a guy who loves problems, and sharing knowledge and e
 </br>
 
 <p align="center">
-  <img src="https://media.tenor.com/29Ok5pc0ivAAAAAd/gatinho-gato.gif" alt="Gatinho Gato GIF" width="350">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
 </p>
 
 </br>
