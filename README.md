@@ -29,7 +29,7 @@ title = "JEST"/></code>
 
 </br>
 
-- 🔭 I'm currently studying at Trybe, starting the Back-end module.
+- 🔭 I' m currently studying at Trybe to become a full stack developer.
 - 🌱 At this moment learning Back-end and improving my Front-end knowledge.
 - 👯 I'm in a career transition and looking for an opportunity in a startup, to be able to build something new.
 - 📫 How to reach me: https://www.linkedin.com/in/pablo-dominguez73/
