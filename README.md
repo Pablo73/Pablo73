@@ -26,6 +26,8 @@ Hello everyone. I'm Pablo, a guy who loves problems, and sharing knowledge and e
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title = "REDUX"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" 
 title = "JEST"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title = "DOCKER"/></code>    
 
 </br>
 
@@ -38,7 +40,7 @@ title = "JEST"/></code>
 </br>
 <p align="center">
     <a href="https://github.com/Pablo73">
-        <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pablo73&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pablo73&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pablo73&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pablo73&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
