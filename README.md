@@ -26,8 +26,8 @@ Hello everyone. I'm Pablo, a guy who loves problems, and sharing knowledge and e
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title = "REDUX"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" 
 title = "JEST"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" title = "DOCKER"/></code>    
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title = "DOCKER"/></code>
 
 </br>
 
