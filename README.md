@@ -30,12 +30,7 @@ Hello everyone. I'm Pablo, a guy who loves problems, and sharing knowledge and e
 title = "JEST"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title = "DOCKER"/></code>
-
-
-  
-          
-
-          
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title = "SEQUELIZE"/></code>
 
 
           
