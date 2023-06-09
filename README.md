@@ -40,7 +40,7 @@ title = "JEST"/></code>
 - 🔭 I' m currently studying at Trybe to become a full stack developer.
 - 🌱 At this moment learning Back-end and improving my Front-end knowledge.
 - 👯 I'm in a career transition and looking for an opportunity in a startup, to be able to build something new.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/pablo-dominguez73/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 📫 How to reach me: <a href="mailto:pasaxo@gmail.com"><img alt="Gmail" width="80px" src="https://i.ibb.co/QXf3p1X/gmail-logo-1-1.pnghttps://i.ibb.co/dtvrg3Z/gmail-logo-1-1-1536x353.png" /></a>
 - ⚡ Fun Fact: I love ice cream with balsamic vinegar.
 
 </br>
