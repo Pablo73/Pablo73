@@ -1,7 +1,10 @@
 <div>
     <h1 align="left">Pablo Dominguez</h1>
     <a href="https://www.linkedin.com/in/pablo-dominguez73/">
-        <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+        <img width="50px" src="https://i.ibb.co/8c1Qd0p/download.png" alt="linkedin">
+    </a>
+    <a href="mailto:pasaxo@gmail.com" >
+        <img alt="Gmail" width="72px" src="https://i.ibb.co/VJCXqdV/Email-PNG-HD-Image.png">
     </a>
 </div>
 
