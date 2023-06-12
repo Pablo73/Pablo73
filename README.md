@@ -12,7 +12,7 @@ Hello everyone. I'm Pablo, a guy who loves problems, and sharing knowledge and e
 </br>
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+  <img src="https://i.ibb.co/0rDjcRZ/72Oz.gif" alt="72Oz" border="0" width="350">
 </p>
 
 </br>
