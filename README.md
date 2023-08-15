@@ -4,7 +4,7 @@
         <img width="50px" src="https://i.ibb.co/8c1Qd0p/download.png" alt="linkedin">
     </a>
     <a href="mailto:pasaxo@gmail.com" >
-        <img alt="Gmail" width="72px" src="https://i.ibb.co/VJCXqdV/Email-PNG-HD-Image.png">
+        <img alt="Gmail" width="72px" src="https://i.ibb.co/VJCXqdV/Email-PNG-HD-Image.png" alt="Gmail">
     </a>
 </div>
 
