@@ -1,10 +1,10 @@
 <div>
     <h1 align="left">Pablo Dominguez</h1>
     <a href="https://www.linkedin.com/in/pablo-dominguez73/">
-        <img width="50px" src="https://i.ibb.co/8c1Qd0p/download.png" alt="linkedin">
+        <img width="50px" src="https://i.ibb.co/8c1Qd0p/download.png" title="linkedin">
     </a>
     <a href="mailto:pasaxo@gmail.com" >
-        <img alt="Gmail" width="72px" src="https://i.ibb.co/VJCXqdV/Email-PNG-HD-Image.png" alt="Gmail">
+        <img alt="Gmail" width="72px" src="https://i.ibb.co/VJCXqdV/Email-PNG-HD-Image.png" title="Gmail">
     </a>
 </div>
 
