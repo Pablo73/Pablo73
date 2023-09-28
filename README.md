@@ -10,7 +10,7 @@
 
 </br>
 
-Hello everyone. I'm Pablo, a guy who loves problems, and sharing knowledge and experiences. I'm a junior dev but in whatever I can help, please feel free to explore my repository and if you prefer, you can get in touch.
+Hello everyone. I am Pablo, a guy who loves problems, and sharing knowledge and experiences. I am a web developer, so if there is anything I can help with, feel free to explore my repository and if you prefer, contact me.
 
 </br>
 
