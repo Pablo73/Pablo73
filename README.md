@@ -51,7 +51,7 @@ title = "JEST"/></code>
 </br>
 <p align="center">
     <a>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pablo73&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo73&layout=compact&langs_count=8&theme=radical"/>
+        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pablo73&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues"/>
+        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pablo73&layout=compact&langs_count=8&theme=radical"/>
     </a>
 </p>
